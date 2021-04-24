@@ -26,8 +26,8 @@ JAVA 개인프로젝트
 
   # 주의사항
 
-  * MySQL 5.7 이상의 버전이 설치되어있어야함.
-  * 프로그램 시작 전 DateBase를 생성해줘야함.
-  * mysql-connector-java-commercial-5.1.7-bin.jar(커넥터) 라이브러리를 추가 해줘야함.
+  * MySQL 5.7 이상의 버전이 설치되어있어야한다.
+  * 프로그램 시작 전 DateBase를 생성해줘야한다.
+  * mysql-connector-java-commercial-5.1.7-bin.jar(커넥터) 라이브러리를 추가 해줘야한다.
 
 
